@@ -1,0 +1,6 @@
+{
+  "server": "localhost",
+  "serverPort": 8124,
+  "localPort": 5500,
+  "serverOepnPort": 15001
+}
